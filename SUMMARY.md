@@ -13,7 +13,9 @@
     * [品牌](chapter1/shang-pin-guan-li/pin-pai.md)
     * [商品](chapter1/shang-pin-guan-li/shang-pin.md)
   * [客户（会员）管理](chapter1/ke-hu-ff08-hui-yuan-ff09-guan-li.md)
-  * 零售管理
+    * [分类](chapter1/ke-hu-ff08-hui-yuan-ff09-guan-li/fen-lei.md)
+    * [客户](chapter1/ke-hu-ff08-hui-yuan-ff09-guan-li/ke-hu.md)
+  * [零售管理](chapter1/ling-shou-guan-li.md)
   * 库存管理
 * [收银台](shou-yin-tai.md)
 * 小程序
